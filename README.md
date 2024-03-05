@@ -2,7 +2,20 @@
 
 ## Created by- Saddam Ansari @Aspiring Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
 
+## Important Links 👇
 
+### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/crpc9---understanding-sales-promotion-analysis-by-saddam-ansari)
+
+### Power BI Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZTRhNzNkZGMtNzc5ZS00MDczLWJjODEtNDYyN2E1NDk3YmFmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+### Prsentation [Link](https://www.canva.com/design/DAF-bgA8iaE/6PGj6tR0PBACpo9Rn4LXeQ/edit?utm_content=DAF-bgA8iaE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### Business Reqest Solutions with query and result [Link](https://docs.google.com/document/d/1k7-CKe6dfkA2_3Gzwb8p2flDm93unUiCH0xlnRl5JHA/edit?usp=sharing)
+
+### Masterdata where you can see which types of changes i have made [link](https://docs.google.com/spreadsheets/d/1OKabRHFVq5sbRbgkey35Izg1DyLx6ui6MOKhy8l8gds/edit?usp=sharing)
+#
+
+## Tables of Content
 
 
 
@@ -344,8 +357,33 @@ In the summer season, providing discounts or combo offers on hydration products,
 #
 
 
+## My Learning
+This challenge was a great opportunity to learn and apply advanced data analysis techniques. I also learned how to create visually appealing and informative dashboards that can be used to make data-driven decisions.
 
+also This project has been truly rewarding, allowing me to showcase my work and further my journey as an aspiring data analyst. It not only adds value to my portfolio but also demonstrates my capabilities in handling complex datasets.
 
+#
 
+## Gratitude
 
+I'm grateful to Codebasics for providing a platform for aspiring data analysts to work on real-time datasets and enhance their skills.
 
+#
+
+**Check out my submission and let me know what you think!**
+
+Your feedback is highly plays a crucial role in my growth, so please feel free to share any suggestions.
+
+Apart from this project, I have also completed over 20+ Power BI projects, which you can explore on NovyPro at [NovyPro Portfolio](https://www.novypro.com/profile_projects/saddamansari)
+
+Thank you for taking the time to view my project. I hope you enjoyed it.
+
+#
+
+Created and Analyzed by:
+
+Saddam Ansari @Aspiring Data Analyst [LinkedIn]((https://www.linkedin.com/in/saddam-ansari-dataanalyst))
+
+Location: India
+
+### THE END
