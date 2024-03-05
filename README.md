@@ -337,11 +337,11 @@ Organizing promotions on summer wear, like cotton clothes, beachwear, sunglasses
 In the summer season, providing discounts or combo offers on hydration products, like water bottles, energy drinks, fruit juices, etc. Customers will be helped in providing essential products for hydr
 
 #### 3. Hydration Products Promotion :
- In the summer season, providing discounts or combo offers on hydration products, like water bottles, energy drinks, fruit juices, etc. Customers will be helped in providing essential products for hydr
+In the summer season, providing discounts or combo offers on hydration products, like water bottles, energy drinks, fruit juices, etc. Customers will be helped in providing essential products for hydr
 
+![27](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/9c9bd58b-0a8a-41fd-959d-e88cd183d39e)
 
-
-sa
+#
 
 
 
