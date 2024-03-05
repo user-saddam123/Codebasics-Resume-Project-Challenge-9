@@ -16,32 +16,21 @@
 #
 
 ## Tables of Content
- 1.[Challenge Objective](#challenge-objective)
-
- 2.[Promotion Overview](promotion-overview)
-
- 3.[About dataset](#about-dataset)
-
- 4.[Master Data](#final-masterdata)
-
- 5.[Business Request](#business-request)
-
- 6.[KPI](#kpis)
-
- 7.[Recommendation Insight](#recommended-insights)
-  [Store Performance Analysis](#store-performance-analysis)
-  [Promotion type Analysis](#promotion-type-analysis)
-  [Product and Category Analysis](#product-and-category-analysis)
-
- 9.[Recommendation](#some-recommendation)
-
- 10.[Summer recommendation](#recommendation-for-summer-campaign)
-
- 11.[Learning](#my-learning)
- 
- 12.[Gratitude](#gratitude)
-
- 13.[End](#the-end)
+1. [Challenge Objective](#challenge-objective)
+2. [Promotion Overview](promotion-overview)
+3. [About dataset](#about-dataset)
+4. [Master Data](#final-masterdata)
+5. [Business Request](#business-request)
+6. [KPI](#kpis)
+7. [Recommendation Insight](#recommended-insights)
+  * [Store Performance Analysis](#store-performance-analysis)
+  * [Promotion type Analysis](#promotion-type-analysis)
+  * [Product and Category Analysis](#product-and-category-analysis)
+9. [Recommendation](#some-recommendation)
+10. [Summer recommendation](#recommendation-for-summer-campaign)
+11. [Learning](#my-learning)
+12. [Gratitude](#gratitude)
+13. [End](#the-end)
 
 #
 
