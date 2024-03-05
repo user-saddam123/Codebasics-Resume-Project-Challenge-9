@@ -35,11 +35,15 @@
 #
 
 ## Challenge Objective
+[Home 🔁](#tables-of-content)
+
 **AtliQ Mart** is a retail giant with over **50 supermarkets** in the southern region of India. All their 50 stores ran a massive **promotion** during the **Diwali 2023** and **Sankranti 2024** (festive time in India) on their AtliQ branded products. 
 
 Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.  
 
 ## Promotion Overview
+[Home 🔁](#tables-of-content)
+
 "AtliQ Mart conducted two major campaign promotions: the Diwali Campaign 2023 and the Sankranti Campaign 2024. During both campaigns, the following promotions were implemented:
 
  1. 25% off
@@ -49,6 +53,8 @@ Now the sales director wants to understand which promotions did well and which d
  5. BOGOF (Buy One Get One Free)
 
 ## About Dataset
+[Home 🔁](#tables-of-content)
+
 For this project, I was provided with separate tables of data, namely dim_campaign, dim_product, dim_store, and fact_events.
 
 ![1](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/aa5509d2-a5d1-4c24-bc93-9324bdabd897) 
@@ -61,6 +67,8 @@ For this project, I was provided with separate tables of data, namely dim_campai
 
 
 ### Final MasterData 
+[Home 🔁](#tables-of-content)
+
 I combined all of these tables into one, named 'masterdata,' for ease of use-
 
 Eg;
@@ -79,8 +87,7 @@ Eg;
 
 
 #
-
-
+[Home 🔁](#tables-of-content)
 ## Business Request
 Start by importing the 'retail_events_db' database into MySQL Workbench. Craft SQL queries to address the specified business questions. Save these queries in an SQL file and upload it to GitHub. Share the GitHub link and include query outputs in your presentation.
 
@@ -93,7 +100,7 @@ Provide a list of products with a base price greater than 500 and that are featu
 #### Power BI
 ![request 1](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/3864c436-97d2-40a8-b643-9f16ea2c3154)
 
-
+[Home 🔁](#tables-of-content)
 ### Request 2.
 Generate a report that provides an overview of the number of stores in each city. The results will be sorted in descending order of store counts, allowing us to identify the cities with the highest store presence. The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
 
@@ -103,7 +110,7 @@ Generate a report that provides an overview of the number of stores in each city
 #### Power BI
 ![Request 2 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/5b8eb5cd-8eab-4e32-84db-7e2b3d6285ab)
 
-
+[Home 🔁](#tables-of-content)
 ### Request 3.
 Generate a report that displays each campaign along with the total revenue generated before and after the campaign? The report includes three key fields: campaign_name, total_revenue(before_promotion), total_revenue(after_promotion). This report should help in evaluating the financial impact of our promotional campaigns. (Display the values in millions).
 
@@ -115,7 +122,7 @@ Generate a report that displays each campaign along with the total revenue gener
 ![Request 3 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/17ffd671-7725-43a8-99cc-5656ab78645f)
 
 
-
+[Home 🔁](#tables-of-content)
 ### Request 4. 
 Produce a report that calculates the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign. Additionally, provide rankings for the categories based on their ISU%. The report will include three key fields: category, isu%, and rank order. This information will assist in assessing the category-wise success and impact of the Diwali campaign on incremental sales.
 
@@ -132,7 +139,7 @@ Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentag
 #### Power BI
 ![Request 4 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/f43ff00f-09da-4fc2-85de-78fafdfc0388)
 
-
+[Home 🔁](#tables-of-content)
 ### Request 5. 
 Create a report featuring the Top 5 products, ranked by Incremental Revenue Percentage (IR%), across all campaigns. The report will provide essential information including product name, category, and ir%. This analysis helps identify the most successful products in terms of incremental revenue across our campaigns, assisting in product optimization.
 
@@ -148,7 +155,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
 ![Request 5 a](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/917ca9d8-4ce8-47be-a1c2-8e4eec3e749b)
 
 #
-
+[Home 🔁](#tables-of-content)
 ## Kpis 
 
 ![kpis optional](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/46fd7b15-36bd-4b8b-8acb-7ce625d4191d)
@@ -157,7 +164,7 @@ Create a report featuring the Top 5 products, ranked by Incremental Revenue Perc
 #
 
 ## Recommended Insights
-
+[Home 🔁](#tables-of-content)
 ### Store Performance Analysis:
 
 ### Request 1
@@ -172,21 +179,21 @@ Which are the bottom 10 stores in terms of Incremental Revenue (IR) generated fr
 
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 2
 Which are the bottom 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
 
 ![9](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/d3055982-7014-463d-868c-df4907b815b8)
 
 
-
+[Home 🔁](#tables-of-content)
 ### Request 2 Optional 
 Which are the Top 10 stores when it comes to Incremental Sold Units (ISU) during the promotional period?
 
 ![10](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/095b9bc9-9356-453e-95cf-35c21774838d)
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 3
 How does the performance of stores vary by city? Are there any common characteristics among the top-performing stores that could be leveraged across other stores?
 
@@ -210,7 +217,7 @@ Check out this insights to understand top 2 store have whats kinds of things com
 #
 
 
-
+[Home 🔁](#tables-of-content)
 ## Promotion Type Analysis:
 
 ### Request 1 
@@ -218,7 +225,7 @@ What are the top 2 promotion types that resulted in the highest Incremental Reve
 
 ![13](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/2be019a3-831c-4879-9139-89bacc77ed3a)
 
-
+[Home 🔁](#tables-of-content)
 ### Request 1 optional
 What are the bottom promotion types that resulted in the lowest Incremental Revenue?
 
@@ -239,7 +246,7 @@ What are the top promotion types in terms of their impact on Incremental Sold Un
 
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 3
 Is there a significant difference in the performance of discount-based promotions versus BOGOF (Buy One Get One Free) or cashback promotions?
 
@@ -255,7 +262,7 @@ Is there a significant difference in the performance of discount-based promotion
 
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 4
 Which promotions strike the best balance between Incremental Sold Units and maintaining healthy margins?
 
@@ -279,7 +286,7 @@ Therefore, Promotions 500 Cashback, BOGOF, and 33% Off could be considered as th
 ![18](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/b554884c-0798-4ba8-a9f5-754523f05992)
 
 #
-
+[Home 🔁](#tables-of-content)
 ## Product and Category Analysis:
 
 ### Request 1
@@ -293,7 +300,7 @@ Which product categories saw the most significant lift in revenue from the promo
 ![20](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/cd563890-d1fa-4542-be75-c550b92e59f7)
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 2
 Are there specific products that respond exceptionally well or poorly to promotions?
 
@@ -305,7 +312,7 @@ Are there specific products that respond exceptionally well or poorly to promoti
 ![22](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/692ebd57-c271-4ec2-b465-4a0e71ea2d92)
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 2 optional
 Are there specific products that respond exceptionally well or poorly to promotions? based on QTY-
 
@@ -320,7 +327,7 @@ Are there specific products that respond exceptionally well or poorly to promoti
 ![24](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/20d2bced-e738-4c8b-93e2-beefa4671f13)
 
 #
-
+[Home 🔁](#tables-of-content)
 ### Request 5
 What is the correlation between product category and promotion type effectiveness?
 
@@ -328,7 +335,7 @@ What is the correlation between product category and promotion type effectivenes
 ![25](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/6d2ebc7c-cef2-45ce-af98-ed12ee9f1987)
 
 #
-
+[Home 🔁](#tables-of-content)
 ## Some Recommendation
 
 #### 01  Where we can lunch new store in future?
@@ -349,7 +356,7 @@ Based on our analysis, promotions such as 500 cashback, BOGOF (Buy One Get One F
 ![26](https://github.com/user-saddam123/Codebasics-Resume-Project-Challenge-9/assets/123800896/cbf29748-f1c4-47b8-8045-596aefb039fa)
 
 #
-
+[Home 🔁](#tables-of-content)
 ## Recommendation for Summer Campaign 
 We can do some such promotional activities at our supermarket in summer which will attract customers and improve sales in the summer season. Here are some proposed promotional strategies which can be effective in summer season:
 
@@ -369,14 +376,14 @@ In the summer season, providing discounts or combo offers on hydration products,
 
 #
 
-
+[Home 🔁](#tables-of-content)
 ## My Learning
 This challenge was a great opportunity to learn and apply advanced data analysis techniques. I also learned how to create visually appealing and informative dashboards that can be used to make data-driven decisions.
 
 also This project has been truly rewarding, allowing me to showcase my work and further my journey as an aspiring data analyst. It not only adds value to my portfolio but also demonstrates my capabilities in handling complex datasets.
 
 #
-
+[Home 🔁](#tables-of-content)
 ## Gratitude
 
 I'm grateful to Codebasics for providing a platform for aspiring data analysts to work on real-time datasets and enhance their skills.
@@ -400,3 +407,4 @@ Saddam Ansari @Aspiring Data Analyst [LinkedIn]((https://www.linkedin.com/in/sad
 Location: India
 
 ### THE END
+[Home 🔁](#tables-of-content)
