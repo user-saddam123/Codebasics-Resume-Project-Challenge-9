@@ -397,7 +397,8 @@ Your feedback is highly plays a crucial role in my growth, so please feel free t
 Apart from this project, I have also completed over 20+ Power BI projects, which you can explore on NovyPro at [NovyPro Portfolio](https://www.novypro.com/profile_projects/saddamansari)
 
 Thank you for taking the time to view my project. I hope you enjoyed it.
-
+#
+**Note;- I am Open to internship or entry level of data analytics or power bi developer role , so you have any oppening which is based on my profile so please connect with me on Linkeldin and disccuse your requirement.**
 #
 
 Created and Analyzed by:
